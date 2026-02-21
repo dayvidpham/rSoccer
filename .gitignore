@@ -7,7 +7,7 @@
 ##########
 # Training artifacts
 
-*.zip
+out/
 
 ##########
 
