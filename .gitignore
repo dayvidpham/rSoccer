@@ -1,3 +1,16 @@
+##########
+# NixOS
+
+.direnv/
+
+
+##########
+# Training artifacts
+
+*.zip
+
+##########
+
 .DS_Store
 *.pyc
 rsoccer_gym.egg-info/
